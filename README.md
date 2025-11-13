@@ -54,13 +54,9 @@ src/
 ├── com.bms.ui               # GUI classes
 ├── Main.java                # Entry point
 
-🙋‍♂️ Author
-
-Rahul  
-📍 Mandi, Himachal Pradesh  
-📧 RC2292062@gmail.com  
-🔗 https://www.linkedin.com/in/rahul7650/  
-💻 https://github.com/rahul7640
+Author 
+Vineet Thakur 
+vineetthakur2003aj@gmail.com
 
 📃 License
 
